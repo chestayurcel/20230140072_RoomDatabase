@@ -8,7 +8,6 @@ espressoCore = "3.7.0"
 lifecycleRuntimeKtx = "2.10.0"
 activityCompose = "1.12.0"
 composeBom = "2024.09.00"
-kotlin = "2.0.21"
 room = "2.8.4"
 kspver = "2.0.21-1.0.26"
 
