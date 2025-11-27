@@ -24,11 +24,12 @@ import androidx.compose.ui.res.dimensionResource
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.input.KeyboardType
 import androidx.lifecycle.viewmodel.compose.viewModel
+import androidx.room.util.copy
 import com.example.praktikumroomdb.viewmodel.DetailSiswa
 import com.example.praktikumroomdb.viewmodel.EntryViewModel
 import com.example.praktikumroomdb.viewmodel.UIStateSiswa
 import com.example.praktikumroomdb.viewmodel.provider.PenyediaViewModel
-import com.example.praktikumroomdbview.route.DestinasiEntry
+import com.example.praktikumroomdb.view.route.DestinasiEntry
 import com.example.praktikumroomdb.R
 import kotlinx.coroutines.launch
 
